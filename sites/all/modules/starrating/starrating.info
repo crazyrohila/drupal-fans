@@ -1,0 +1,10 @@
+; $id:
+name = Star Rating
+description = Provides star rating field type and formatter
+core = "8.x"
+package = Fields
+
+dependencies[] = field
+
+files[] = starrating.install
+files[] = starrating.module

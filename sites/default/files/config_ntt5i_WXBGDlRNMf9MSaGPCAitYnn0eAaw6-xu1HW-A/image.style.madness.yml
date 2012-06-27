@@ -1,0 +1,9 @@
+name: madness
+effects:
+    image_scale_and_crop_270_250:
+        name: image_scale_and_crop
+        data:
+            width: '270'
+            height: '250'
+        weight: '1'
+        ieid: image_scale_and_crop_270_250
